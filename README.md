@@ -31,7 +31,7 @@ Answer the following prompt questions and your README will be updated with your 
 
 ![Screenshot of prompt questions](readme_generator_prompt_questions.png)
 
-![Recording of Application](https://drive.google.com/file/d/1mhYaNwRpllMoQyuDx3hlEo0nd6CrNsqr/view)
+[Recording of Application](https://drive.google.com/file/d/1mhYaNwRpllMoQyuDx3hlEo0nd6CrNsqr/view)
 
   ## License
 
