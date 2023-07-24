@@ -47,5 +47,5 @@ There are currently no test for this application
 
   ## Questions
 
-  If you have any questions, feel free to reach me at [GitHub](https://github.com/Annie_McElroy) or via email at [annie.mcelroy8522@gmail.com](annie.mcelroy8522@gmail.com).
+  If you have any questions, feel free to reach me at [GitHub](https://github.com/Annie-McElroy) or via email at [annie.mcelroy8522@gmail.com](annie.mcelroy8522@gmail.com).
 
