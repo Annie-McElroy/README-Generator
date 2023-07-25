@@ -29,7 +29,7 @@ To generate a professional README, please run the following command in your inte
 
 Answer the following prompt questions and your README will be updated with your input and selections.
 
-![Screenshot of prompt questions](readme_generator_prompt_questions.png)
+![Screenshot of prompt questions](./images/readme_generator_prompt_questions.png)
 
 [Recording of Application](https://drive.google.com/file/d/1mhYaNwRpllMoQyuDx3hlEo0nd6CrNsqr/view)
 
